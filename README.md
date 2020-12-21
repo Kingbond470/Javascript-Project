@@ -1,9 +1,11 @@
 # Javascript-Project
-it will show the basic implementation of javascript.
+It will show the implementation of javascript.
 
-Reuirements for local user:-
-download fontawesome-free-5.12.0-web from font awesome website.
+Reuirements for User:-
+Download fontawesome-free-5.12.0-web from font awesome website.
 
-1.1 Color Change -
 
-https://colorchangejs.netlify.app/
+
+[Color Change](https://colorchangejs.netlify.app/)
+
+[Counter Value](https://valuecounter.netlify.app/)
