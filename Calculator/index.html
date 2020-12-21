@@ -1,0 +1,92 @@
+<!Doctype html>
+<html lang="en">
+	<head>
+        <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans|Varela+Round" rel="stylesheet">
+		<meta charset="utf-8">
+		<meta name="description" content="Calculator">
+		<meta name="keywords" content="Calc,Calculator">
+		<title>Modern Calculator</title>
+	</head>
+
+	<body>
+        <header>
+            <!--navigation bar-->
+            <nav class="sidebar noselect">
+                <div id="sb-header">
+                    <div id="hide">Hide</div>
+                </div>
+                <div id="sb-title">
+                    <div id="sb-name">Calculator</div>
+                    <div id="sb-setting">Settings</div>
+                </div>
+                <!--for decimal value-->
+                <div id="decimal-box">
+                    <div id="precision-title">Decimal precision</div>
+                    <div id="precision">
+                        <div class="precision" id="float-one" onclick="changePrecision(1)">1</div>
+                        <div class="precision" id="float-two" onclick="changePrecision(2)">2</div>
+                        <div class="precision" id="float-three" onclick="changePrecision(3)">3</div>
+                        <div class="precision" id="float-four" onclick="changePrecision(4)">4</div>
+                        <div class="precision" id="float-five" onclick="changePrecision(5)">5</div>
+                        <div class="precision" id="float-six" onclick="changePrecision(6)">6</div>
+                        <div class="precision" id="float-seven" onclick="changePrecision(7)">7</div>
+                        <div class="precision" id="float-eight" onclick="changePrecision(8)">8</div>
+                    </div>
+                </div>
+                <!-- choose different these -->
+                <div id="theme-box">
+                    <div id="theme-title">Themes</div>
+                    <div id="theme">
+                        <div class="theme" id="theme-purple">Purple</div>
+                        <div class="theme" id="theme-red">Red</div>
+                        <div class="theme" id="theme-blue">Blue</div>
+                        <div class="theme" id="theme-green">Green</div>
+                        <div class="theme" id="theme-bluegreen">BlueGreen</div>
+                        <div class="theme" id="theme-black">Black</div>
+                    </div>
+                </div>
+            </nav>
+        </header>
+        <div id="base">
+            <div id="main">
+                <div class="container" id="header">
+                    <div class="noselect" id="name">Calculator</div>
+                    <div class="noselect" id="menu">
+                        <div class="bar1"></div>
+                        <div class="bar2"></div>
+                        <div class="bar3"></div>
+                    </div>
+                </div>
+                <div class="container" id="clear-container">
+                    <div class="noselect" id="delete" onclick="backspace()">⇦</div>
+                    <div class="noselect" id="clear" onclick="c()">Clear</div>
+                </div>
+                <div class="container" id="result-container">
+                    <div id="result"></div>
+                </div>
+                <div class="container noselect" id="op-container">
+                    <div class="op" id="plus" onclick="insert('+')">+</div>
+                    <div class="op" id="minus"  onclick="insert('−')">−</div>
+                    <div class="op" id="multiply" onclick="insert('*')">×</div>
+                    <div class="op" id="divide" onclick="insert('/')">÷</div>
+                </div>
+                <div class="container" id="eq-container">
+                    <div class="op noselect" id="equal" onclick="findAns()">=</div>
+                </div>
+            </div>
+            <div id="num" class="noselect">
+                <div class="num-button" id="nine" onclick="insert('9')">9</div>
+                <div class="num-button" id="eight" onclick="insert('8')">8</div>
+                <div class="num-button" id="seven" onclick="insert('7')">7</div>
+                <div class="num-button" id="six" onclick="insert('6')">6</div>
+                <div class="num-button" id="five" onclick="insert('5')">5</div>
+                <div class="num-button" id="four" onclick="insert('4')">4</div>
+                <div class="num-button" id="three" onclick="insert('3')">3</div>
+                <div class="num-button" id="two" onclick="insert('2')">2</div>
+                <div class="num-button" id="one" onclick="insert('1')">1</div>
+                <div class="num-button" id="zero" onclick="insert('0')">0</div>
+                <div class="num-button" id="decimal" onclick="insert('.')">.</div>
+            </div>
+        </div>
+	</body>
+</html>
