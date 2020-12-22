@@ -1,0 +1,303 @@
+body * {
+    font-family: 'Varela Round';
+}
+
+html {
+	height: 100%;
+	background: white;
+	background: radial-gradient(circle, #ccc 25%, #fff);
+	background-size: cover;
+}
+
+#base {
+    display: inline-block;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 400px;
+    height: 700px;
+    margin: auto;
+    background: white;
+    box-shadow: 5px 10px 50px grey;
+    overflow: auto;
+}
+
+.op:hover {
+    background-color: ghostwhite;
+}
+.op:active {
+    background-color: whitesmoke;
+    box-shadow: 0px 1px 1px #225;
+    transform: translateY(2px);
+}
+
+.num-button:hover {
+    background-color: ghostwhite;
+}
+.num-button:active {
+  background-color: whitesmoke;
+  transform: translateY(2px);
+}
+
+#clear:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+#clear:active {
+    transform: translateY(2px);
+}
+
+#delete:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+#delete:active {
+    transform: translateY(2px);
+}
+
+.precision:hover {
+    background-color: whitesmoke;
+}
+.precision:active {
+    background-color: lightgrey;
+    transform: translateY(2px);
+}
+
+.theme:active {
+    transform: translateY(2px);
+}
+
+#main {
+    color: darkblue;
+    width: 84%;
+    height: inherit;
+    float: left;
+    background: linear-gradient(to bottom right, #FC3366, #3A5EFF);
+    margin-right: -4px;
+    display: flex;
+    flex-direction: column;
+}
+
+#num {
+    width: 15%;
+    height: inherit;
+    float: right;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.num-button {
+    font-size: 40px;
+    color: black;
+    height: 50px;
+    width: 50px;  
+    line-height: 50px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 30px;
+}
+
+.container {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#header {
+    flex-grow: 4;
+}
+
+#name {
+    font-size: 25px;
+    float: left;
+}
+
+#menu {
+    float: right;
+    cursor: pointer;
+}
+
+#menu:active {
+    transform: translateY(1px);
+}
+
+.bar1, .bar2, .bar3 {
+    width: 25px;
+    height: 2px;
+    background-color: deepskyblue;
+    margin: 6px 0;
+    transition: 0.4s;
+    border-radius: 50px;
+}
+
+#clear-container {
+    padding-top: 0px;
+    padding-bottom: 0px;
+    flex-grow: 0;
+}
+
+#clear {
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 15px;
+    float: left;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+}
+
+#delete {
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+    float: right;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+}
+
+#result-container {
+    flex-grow: 5;
+}
+
+#result {
+    font-size: 60px;
+    text-align: right;
+    overflow-x: scroll;
+    overflow-y: hidden;
+    width: inherit;
+    height: 70px;
+    position: relative;
+    background-color: rgba(255, 255, 255, 0.1);
+    color: white;
+}
+
+#op-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    flex-grow: 1;
+}
+
+.op {
+    text-align: center;
+    vertical-align: middle;
+    height: 50px;
+    width: 50px;
+    line-height: 50px;
+    background: lavender;
+    color: maroon;
+    font-size: 45px;
+    border-radius: 30px;
+    box-shadow: 0px 2px 5px #555;
+}
+
+#eq-container {
+    padding-bottom: 60px;
+    flex-grow: 1;
+}
+
+#equal {
+    width: auto;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 50px;
+}
+
+.noselect {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Non-prefixed version, currently supported by Chrome and Opera */
+}
+
+.sidebar {
+    background-color: white;
+    color: grey;
+    position: fixed;
+    top: 0px;
+    right: -300px;
+    width: 250px;
+    height: 100%;
+    padding: 25px;
+    z-index: 1;
+    transition: right 0.5s ease;
+    display: flex;
+    flex-direction: column;
+}
+
+.sidebar-show {
+    right: 0px;
+    box-shadow: -25px 0px 400px black;
+}
+
+#sb-header {
+    flex-grow: 2;
+}
+
+#hide {
+    float: right;
+}
+
+#sb-title {
+    flex-grow: 2;
+}
+
+#sb-name {
+    font-size: 20px;
+}
+
+#sb-setting {
+    font-size: 50px;
+    color: dimgrey;
+    font-weight: bolder;
+}
+
+#decimal-box {
+    flex-grow: 1;
+}
+
+#precision {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#precision-title {
+    font-size: 25px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.precision {
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    vertical-align: middle;
+    text-align: center;
+    border-radius: 25px;
+}
+
+#theme-box {
+    flex-grow: 15;
+}
+
+#theme-title {
+    font-size: 25px;
+    font-weight: bold;
+    padding-bottom: 10px; 
+}
+
+.theme {
+    padding-left: 20px;
+    margin: 10px;
+}
