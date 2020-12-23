@@ -12,4 +12,8 @@ Download fontawesome-free-5.12.0-web from font awesome website.
 
 [Image Slider Pagae](https://imagesliderpage.netlify.app/)
 
-[Review Page](https://pagereview.netlify.app/)
+[Page Review](https://pagereview.netlify.app/)
+
+[Paragraph Generator Page](https://paragraphgenerate.netlify.app/)
+
+[Question and Answer Page](https://animeqna.netlify.app/)
