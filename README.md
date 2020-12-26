@@ -10,6 +10,8 @@ Download fontawesome-free-5.12.0-web from font awesome website.
 
 [Counter Value](https://valuecounter.netlify.app/)
 
+[Modern Calculator](https://calculatorismodern.netlify.app/)
+
 [Image Slider Pagae](https://imagesliderpage.netlify.app/)
 
 [Page Review](https://pagereview.netlify.app/)
