@@ -7,7 +7,8 @@ Download fontawesome-free-5.12.0-web from font awesome website.
 
 BackGround Video Page
 
-![Output Image/Background_image_page](Output Image/background_image_page.png)
+
+![OutputImage/Background_image_page](OutputImage/background_image_page.png)
 
 [Color Change](https://colorchangejs.netlify.app/)
 
