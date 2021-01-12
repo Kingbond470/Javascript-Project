@@ -11,13 +11,22 @@ BackGround Video Page
 
 [Color Change](https://colorchangejs.netlify.app/)
 
+
 [Counter Value](https://valuecounter.netlify.app/)
 
+![Output/Counter_value](Output/counter_value.png)
 
 [Modern Calculator](https://calculatorismodern.netlify.app/)
 
-
 [Image Slider Pagae](https://imagesliderpage.netlify.app/)
+
+![Output/Image_slide_page](Output/image_slide_page.png)
+
+![Output/Image_slide_page1](Output/image_slide_page1.png)
+
+![Output/Image_slide_page2](Output/image_slide_page2.png)
+
+![Output/Image_slide_page3](Output/image_slide_page3.png)
 
 [Page Review](https://pagereview.netlify.app/)
 
