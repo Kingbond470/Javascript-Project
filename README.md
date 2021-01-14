@@ -18,6 +18,14 @@ BackGround Video Page
 
 [Modern Calculator](https://calculatorismodern.netlify.app/)
 
+![Output/Calculator1](Output/calculator1.png)
+
+![Output/Calculator2](Output/calculator2.png)
+
+![Output/Calculator3](Output/calculator3.png)
+
+![Output/Calculator4](Output/calculator4.png)
+
 [Image Slider Pagae](https://imagesliderpage.netlify.app/)
 
 ![Output/Image_slide_page](Output/image_slide_page.png)
