@@ -40,7 +40,7 @@ BackGround Video Page
 
 [Paragraph Generator Page](https://paragraphgenerate.netlify.app/)
 
-[Output/Paragraph_generate](Output/paragraph_generate.png)
+![Output/Paragraph_generate](Output/paragraph_generate.png)
 
 [Question and Answer Page](https://animeqna.netlify.app/)
 
