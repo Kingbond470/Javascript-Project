@@ -5,16 +5,16 @@ Reuirements for User:-
 Download fontawesome-free-5.12.0-web from font awesome website.
 
 
-BackGround Video Page
-
-![Output/Background_video_page](Output/background_video_page.png)
-
 [Color Change](https://colorchangejs.netlify.app/)
 
 
 [Counter Value](https://valuecounter.netlify.app/)
 
 ![Output/Counter_value](Output/counter_value.png)
+
+BackGround Video Page
+
+![Output/Background_video_page](Output/background_video_page.png)
 
 [Modern Calculator](https://calculatorismodern.netlify.app/)
 
