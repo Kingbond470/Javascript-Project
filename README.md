@@ -12,6 +12,11 @@ Download fontawesome-free-5.12.0-web from font awesome website.
 
 ![Output/Counter_value](Output/counter_value.png)
 
+
+[Paragraph Generator Page](https://paragraphgenerate.netlify.app/)
+
+![Output/Paragraph_generate](Output/paragraph_generate.png)
+
 BackGround Video Page
 
 ![Output/Background_video_page](Output/background_video_page.png)
@@ -37,10 +42,6 @@ BackGround Video Page
 ![Output/Image_slide_page3](Output/image_slide_page3.png)
 
 [Page Review](https://pagereview.netlify.app/)
-
-[Paragraph Generator Page](https://paragraphgenerate.netlify.app/)
-
-![Output/Paragraph_generate](Output/paragraph_generate.png)
 
 [Question and Answer Page](https://animeqna.netlify.app/)
 
