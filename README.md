@@ -41,13 +41,18 @@ BackGround Video Page
 
 ![Output/Image_slide_page3](Output/image_slide_page3.png)
 
+[Tour Website Page](https://tourwebsitepage.netlify.app/)
+
+![Output/Tour](Output/tour.png)
+
+![Output/Tourvisit](Output/tourvisit.png)
+
 [Page Review](https://pagereview.netlify.app/)
 
 [Question and Answer Page](https://animeqna.netlify.app/)
 
 [Sidebar Page](https://sidebarpage.netlify.app/)
 
-[Tour Website Page](https://tourwebsitepage.netlify.app/)
 
 [Yoga](https://yogatab.netlify.app/)
 
