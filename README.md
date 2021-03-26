@@ -10,42 +10,47 @@ Download fontawesome-free-5.12.0-web from font awesome website.
 
 [Counter Value](https://valuecounter.netlify.app/)
 
-![Output/Counter_value](Output/counter_value.png)
+![Js_output/Counter_value](Js_output/counter_value.png)
 
 
 [Paragraph Generator Page](https://paragraphgenerate.netlify.app/)
 
-![Output/Paragraph_generate](Output/paragraph_generate.png)
+![Js_output/Paragraph_generate](Js_output/paragraph_generate.png)
 
-BackGround Video Page
-
-![Output/Background_video_page](Output/background_video_page.png)
 
 [Modern Calculator](https://calculatorismodern.netlify.app/)
 
-![Output/Calculator1](Output/calculator1.png)
+![Js_output/Calculator1](Js_output/calculator1.png)
 
-![Output/Calculator2](Output/calculator2.png)
+![Js_output/Calculator2](Js_output/calculator2.png)
 
-![Output/Calculator3](Output/calculator3.png)
+![Js_output/Calculator3](Js_output/calculator3.png)
 
-![Output/Calculator4](Output/calculator4.png)
+![Js_output/Calculator4](Js_output/calculator4.png)
+
 
 [Image Slider Pagae](https://imagesliderpage.netlify.app/)
 
-![Output/Image_slide_page](Output/image_slide_page.png)
+![Js_output/Image_slide_page](Js_output/image_slide_page.png)
 
-![Output/Image_slide_page1](Output/image_slide_page1.png)
+![Js_output/Image_slide_page1](Js_output/image_slide_page1.png)
 
-![Output/Image_slide_page2](Output/image_slide_page2.png)
+![Js_output/Image_slide_page2](Js_output/image_slide_page2.png)
 
-![Output/Image_slide_page3](Output/image_slide_page3.png)
+![Js_output/Image_slide_page3](Js_output/image_slide_page3.png)
+
 
 [Tour Website Page](https://tourwebsitepage.netlify.app/)
 
-![Output/Tour](Output/tour.png)
+![Js_output/Tour](Js_output/tour.png)
 
-![Output/Tourvisit](Output/tourvisit.png)
+![Js_output/Tourvisit](Js_output/tourvisit.png)
+
+
+BackGround Video Page
+
+![Js_output/Background_video_page](Js_output/background_video_page.png)
+
 
 [Page Review](https://pagereview.netlify.app/)
 
