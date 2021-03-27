@@ -5,9 +5,6 @@ Reuirements for User:-
 Download fontawesome-free-5.12.0-web from font awesome website.
 
 
-[Color Change](https://colorchangejs.netlify.app/)
-
-
 [Counter Value](https://valuecounter.netlify.app/)
 
 ![Js_output/Counter_value](Js_output/counter_value.png)
@@ -16,6 +13,11 @@ Download fontawesome-free-5.12.0-web from font awesome website.
 [Paragraph Generator Page](https://paragraphgenerate.netlify.app/)
 
 ![Js_output/Paragraph_generate](Js_output/paragraph_generate.png)
+
+
+[Yoga](https://yogatab.netlify.app/)
+
+![Js_output/Yoga](Js_output/yoga.png)
 
 
 [Modern Calculator](https://calculatorismodern.netlify.app/)
@@ -47,6 +49,13 @@ Download fontawesome-free-5.12.0-web from font awesome website.
 ![Js_output/Tourvisit](Js_output/tourvisit.png)
 
 
+[Color Change](https://colorchangejs.netlify.app/)
+
+![Js_output/Color_change_name](Js_output/color_change_name.png)
+
+![Js_output/Color_change_hex](Js_output/color_change_hex.png)
+
+
 BackGround Video Page
 
 ![Js_output/Background_video_page](Js_output/background_video_page.png)
@@ -58,7 +67,5 @@ BackGround Video Page
 
 [Sidebar Page](https://sidebarpage.netlify.app/)
 
-
-[Yoga](https://yogatab.netlify.app/)
 
 [Countdown Timer Giveaway](https://timercountdown0.netlify.app/)
