@@ -63,6 +63,10 @@ BackGround Video Page
 
 [Page Review](https://pagereview.netlify.app/)
 
+![Js_output/Page_review](Js_output/page_review.png)
+![Js_output/Page_review1](Js_output/page_review1.png)
+ 
+
 [Question and Answer Page](https://animeqna.netlify.app/)
 
 [Sidebar Page](https://sidebarpage.netlify.app/)
